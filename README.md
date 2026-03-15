@@ -22,25 +22,27 @@ Welcome to my GitHub — a place where I build, learn, experiment, and improve m
 > study --cs @University_of_Craiova
 > exchange --erasmus @UCM_Madrid
 > build --projects
-> improve --coding_skills
+> learn --always
 ```
 
 ---
 
 ## Skills
 
+```bash
 Languages: C, C++, Python, Java, JavaScript  
 Web: HTML, CSS  
-Tools: Git, Linux, VS Code  
-Also into: algorithms, problem solving, software development
+Tools: Git, GitHub, Linux, VS Code, Eclipse
+Also into: computer systems, graphics, AI, and software engineering
+```
 
 ---
 
+```bash
 ## Languages I speak
 
 Fluent: Romanian, English  
-Conversational: Spanish  
-Basic: French  
+```
 
 ---
 
@@ -53,4 +55,5 @@ while True:
     improve()
 ```
 
-⭐ Thanks for visiting my profile
+⭐ Thanks for stopping by
+
