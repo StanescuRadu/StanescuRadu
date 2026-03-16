@@ -5,7 +5,6 @@
 
 Welcome to my GitHub — a place where I build, learn, experiment, and improve my programming skills.
 
----
 
 ## About me
 
@@ -14,7 +13,6 @@ Welcome to my GitHub — a place where I build, learn, experiment, and improve m
 - 🚀 I enjoy building projects, solving problems, and learning by doing  
 - 🏆 Hackathon participant & competitive programming enthusiast  
 
----
 
 ## Current focus
 
@@ -25,7 +23,6 @@ Welcome to my GitHub — a place where I build, learn, experiment, and improve m
 > learn --always
 ```
 
----
 
 ## Skills
 
@@ -36,7 +33,6 @@ Tools: Git, GitHub, Linux, VS Code, Eclipse
 Also into: computer systems, graphics, AI, and software engineering
 ```
 
----
 
 ## Languages I speak
 
@@ -46,7 +42,6 @@ Also into: computer systems, graphics, AI, and software engineering
 Fluent: Romanian, English  
 ```
 
----
 
 ## Mindset
 
